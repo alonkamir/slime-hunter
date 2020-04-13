@@ -1,3 +1,2 @@
 # slime-hunter
-To start the game: Extract rar
-                   Run slime_hunter.exe
+To start the game: extract rar, run slime_hunter.exe
